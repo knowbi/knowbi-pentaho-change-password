@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<user>admin</user>
+	<password>password</password>
+	<description>User/password with admin permission used to connect and change passwords on Pentaho server.</description>
+</settings>
