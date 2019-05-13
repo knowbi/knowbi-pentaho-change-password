@@ -1,5 +1,5 @@
 # knowbi-pentaho-change-password
-Plugin that allows users to change their password
+Plugin that allows users to change their password, based on the (outdated) [plugin](http://downloads.sourceforge.net/project/pentaho5changepassword/cpp-1.0.0.zip) by [Kleyson Rios](https://twitter.com/kleysonr?lang=en). 
 
 Copy changePassword and sparkl to pentaho-server\pentaho-solutions\system
 
